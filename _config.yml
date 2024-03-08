@@ -128,7 +128,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/laviediu"
-
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ayukaryana/"
 # Site Footer
 footer:
   links:
@@ -144,18 +149,14 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ayukaryana/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laviediu"
-
-
 # Reading Files
 include:
   - .htaccess
   - _pages
+# - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,7 +287,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
