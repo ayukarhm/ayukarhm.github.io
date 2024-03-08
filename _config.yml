@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "I am Ayukaryana"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : #"/assets/images/profile.jpg"
   bio              : "a graduate researcher in applied physics and material science"
   location         : "Tokyo, Japan"
   email            :
