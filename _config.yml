@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "I am Ayukaryana"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a reseearcher and an aspiring Hogwarts wizardess"
+  bio              : "a graduate researcher in applied physics and material science"
   location         : "Tokyo"
   email            :
   links:
@@ -144,9 +144,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ayukaryana/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laviediu"
