@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Have you met me?"
+title                    : "Hello there!"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "this is a snippet of my journey"
 name                     : "Ayukaryana"
-description              : "a portfolio"
+description              : "a snippet of my journey"
 url                      : "https://ayukarhm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ayukarhm/ayukarhm.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,11 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "I am Ayukaryana"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "a graduate researcher in applied physics and material science"
-  location         : "Tokyo"
+  location         : "Tokyo, Japan"
   email            :
   links:
+    - label: "Curriculum Vitae"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/download/CV_Ayukaryana_2023.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ayu.karyana@gmail.com"
