@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/download/CV_Ayukaryana_2023.pdf"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
 # Site Footer
 footer:
