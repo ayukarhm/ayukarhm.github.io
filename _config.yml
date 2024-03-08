@@ -19,12 +19,12 @@ locale                   : "en-US"
 title                    : "Hello there!"
 title_separator          : "-"
 subtitle                 : "this is a snippet of my journey"
-name                     : "Ayukaryana"
+name                     : "ayukaryana"
 description              : "a snippet of my journey"
 url                      : "https://ayukarhm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ayukarhm/ayukarhm.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/thumbnail/teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,17 +105,20 @@ analytics:
 # Site Author
 author:
   name             : "I am Ayukaryana"
-  avatar           : #"/assets/images/profile.jpg"
+  avatar           : "/assets/images/thumbnail/profile.png"
   bio              : "a graduate researcher in applied physics and material science"
   location         : "Tokyo, Japan"
-  email            :
+  email            : "mailto:hey.ayukaryana@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Nur_Ayukaryana"
+  linkedin         : "https://www.linkedin.com/in/ayukaryana/"
   links:
-    - label: "Curriculum Vitae"
+    - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/download/CV_Ayukaryana_2023.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ayu.karyana@gmail.com"
+      #url: "mailto:ayu.karyana@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,10 +136,10 @@ author:
       # url: "https://instagram.com/laviediu"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
+      # url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ayukaryana/"
+      #url: "https://www.linkedin.com/in/ayukaryana/"
 # Site Footer
 footer:
   links:
