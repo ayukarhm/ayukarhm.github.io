@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "I am Ayukaryana"
+  name             : "I am Ayu"
   avatar           : "/assets/images/thumbnail/profile.png"
   bio              : "a graduate researcher in applied physics and material science"
   location         : "Tokyo, Japan"
@@ -116,45 +116,18 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/download/CV_Ayukaryana_2023.pdf"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:ayu.karyana@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/laviediu"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      # url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      #url: "https://www.linkedin.com/in/ayukaryana/"
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/ayukarhm"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/laviediu"
