@@ -5,7 +5,7 @@ main:
   - title: "Research"
   #   url: /_pages/research/index.html
   - title: "Surprise!"
-  #   url: /year-archive/
+    url: https://ayukarhm.github.io/surprise/
   - title: "Photography"
     url: https://ayukarhm.github.io/photography/
   # - title: "Sample Collections"
