@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hello there!"
 title_separator          : "-"
 subtitle                 : "this is a snippet of my journey"
-name                     : "ayukaryana"
+name                     : "Nur Rahmawati Ayukaryana"
 description              : "a snippet of my journey"
 url                      : "https://ayukarhm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,16 +109,16 @@ author:
   bio              : "a graduate researcher in applied physics and material science"
   location         : "Tokyo, Japan"
   email            : "mailto:hey.ayukaryana@gmail.com"
-  googlescholar    : "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
+  #googlescholar    : "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Nur_Ayukaryana"
   linkedin         : "https://www.linkedin.com/in/ayukaryana/"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/download/CV_Ayukaryana_2023.pdf"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=Zq8uPIEAAAAJ&hl=en"
 # Site Footer
 footer:
   links:
@@ -268,6 +268,6 @@ defaults:
       author_profile: true
       show_date: true
       read_time: false
-      comments: # true
+      comments: true
       share: true
-      related: false
+      related: true

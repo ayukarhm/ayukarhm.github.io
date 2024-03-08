@@ -3,11 +3,11 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research"
-  #  url: /_pages/research/index.html
-  - title: "Photography"
-    url: https://www.instagram.com/laviediu/
-  # - title: "Sample Posts"
+  #   url: /_pages/research/index.html
+  - title: "Surprise!"
   #   url: /year-archive/
+  - title: "Photography"
+  #   url: https://www.instagram.com/laviediu/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
