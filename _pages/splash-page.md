@@ -41,8 +41,6 @@ feature_row_center:
     url: "https://www.instagram.com/p/CxYEa1nvlX0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     btn_label: "view"
     btn_class: "btn--primary"
-	
-feature_row_center:
   - image_path: /assets/images/photography/feat1-6.png
     title: "Hogwarts"
     excerpt: "Ineffable beauty!"
