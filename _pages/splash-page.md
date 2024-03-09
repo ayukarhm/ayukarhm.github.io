@@ -4,9 +4,9 @@ layout: splash
 permalink: /photography/
 header:
   overlay_color: "#000"
-  # overlay_color: "#ca423b"
+  #overlay_color: "#ca423b"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/thumbnail/feat1-4.png
+  overlay_image: /assets/images/photography/feat1-4.png
 
   actions:
     - label: "more here!"
