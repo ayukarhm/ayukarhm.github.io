@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Research"
-  #   url: /_pages/research/index.html
+    url: https://ayukarhm.github.io/research/
   - title: "Surprise!"
     url: https://ayukarhm.github.io/surprise/
   - title: "Photography"
