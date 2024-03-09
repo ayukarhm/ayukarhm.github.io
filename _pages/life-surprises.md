@@ -24,6 +24,13 @@ We ate way too much and had fun listening to the material informatics session!
 
 # 2023
 
+## Hogwarts School of Witchcraft and Wizardry
+
+I visited Universal Studios Japan by local trains from Tokyo all the way to Osaka!
+Hogsmeade was perfect and I was completely enchanted by the atmosphere. It is my **happy place**.
+
+<img src="/assets/images/life-update/hogwarts.png" style="max-height: 500px">{: .align-center}
+
 ## The Advanced Materials Research Grand Meeting
 
 I presented my second poster presentation of the metal addition effect in Ba122 bulk superconductors at the [MRM2023](https://mrm2023.jmru.org/)!
