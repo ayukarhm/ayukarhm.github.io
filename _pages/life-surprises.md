@@ -58,7 +58,7 @@ Read the news coverage [here](https://www.itb.ac.id/news/a-student-of-itb-led-he
 
 ## Future Research Talent Award (FRTA)
 
-I was on the cloud nine when reading the email from the committee at ANU. 
+I was on the cloud nine when reading the email from the [FRTA](https://science.anu.edu.au/study/scholarships/future-research-talent-awards-indonesia) committee at ANU. 
 This award allowed me to conduct a 3-months research at the Research School of Physics.
 Because of the pandemic, [Patrick](https://physics.anu.edu.au/contact/people/profile.php?ID=94), Christian and I decided to carry our work online.
 It was an uplifting and lovely experience to work with them!
