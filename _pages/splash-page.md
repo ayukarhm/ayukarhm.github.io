@@ -37,8 +37,16 @@ feature_row:
 feature_row_center:
   - image_path: /assets/images/photography/feat1-5.png
     title: "Summer"
-    excerpt: "Yokohama for the first time in a while depicts the word *exotic*"
+    excerpt: "Kawagoe for the first time in forever depicts the word *exotic*."
     url: "https://www.instagram.com/p/CxYEa1nvlX0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    btn_label: "view"
+    btn_class: "btn--primary"
+	
+feature_row_center:
+  - image_path: /assets/images/photography/feat1-6.png
+    title: "Hogwarts"
+    excerpt: "Ineffable beauty!"
+    url: "https://www.instagram.com/p/C1mSgz_vTeS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     btn_label: "view"
     btn_class: "btn--primary"
 ---
