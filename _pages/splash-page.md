@@ -1,5 +1,5 @@
 ---
-title: "In construction"
+title: "Under construction"
 layout: splash
 permalink: /photography/
 date: 2024-03-08
