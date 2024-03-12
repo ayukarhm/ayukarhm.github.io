@@ -20,8 +20,8 @@ and bending magnet design in a table-top synchrotron project.
 It is pretty wild, isn't it! And I think we both agree to say that physics's [Scoville scale](https://en.wikipedia.org/wiki/Scoville_scale) is infinity.
 *My motivation is driven by new challenges and positive impact, for **a better world**.*
 
-As you can view in this [page](), I have a deep attraction in photography and it has become my peacemaker. 
+As you can view in this [page](https://ayukarhm.github.io/photography/), I have a deep attraction in photography and it has become my peacemaker. 
 Fun fact, my parents and I raise **cats**! And I aspire to be the finest *servant* for them.
-Oh and I also am a *Potterhead* in the **Ravenclaw** house! Pardon the Slytherine cloak :)
+Oh and I also am a *Potterhead* in the **Ravenclaw** house! Pardon the Slytherin cloak :)
 
 <img src="/assets/images/thumbnail/profile3.png" style="max-height: 500px">{: .align-center}

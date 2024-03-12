@@ -12,11 +12,6 @@ toc_label: "life update"
 
 # 2024
 
-## The Applied Superconductivity Conference
-
-I just received an invitation letter for the [ASC meeting](https://www.appliedsuperconductivity.org/asc2024/) in Utah this fall. 
-I will showcase our work in the development of K-Ba122 bulk at TUAT and MgB<sub>2</sub> wires at NIMS. Hopefully my visa will be approved!
-
 ## Science and Technology of Advanced Ceramics conference
 
 I attended [STAC D2MatE](https://dxmt.mext.go.jp/) conference and presented my poster on the densification behavior of K-doped Ba122 bulk superconductor there!
@@ -44,6 +39,15 @@ The pandemic kept me at home, here is our happy face while watching the zoom mee
 
 <img src="/assets/images/life-update/graduation.png" style="max-height: 500px">{: .align-center}
 
+# 2021
+
+## Future Research Talent Award (FRTA)
+
+I was on the cloud nine when reading the email from the [FRTA](https://science.anu.edu.au/study/scholarships/future-research-talent-awards-indonesia) committee at ANU. 
+This award allowed me to conduct a 3-months research at the Research School of Physics.
+Because of the pandemic, [Patrick](https://physics.anu.edu.au/contact/people/profile.php?ID=94), Christian and I decided to carry our work online.
+It was an uplifting and lovely experience to work with them!
+
 # 2020
 
 ## The Hult Prize Competition at TUAT
@@ -53,15 +57,6 @@ It was my first time being a CEO and definitely one of the life-changing moments
 Read the news coverage [here](https://www.itb.ac.id/news/a-student-of-itb-led-her-team-to-champion-the-hult-prize-on-campus-in-japan/57379).
 
 <img src="/assets/images/life-update/hult.png" style="max-height: 500px">{: .align-center}
-
-# 2021
-
-## Future Research Talent Award (FRTA)
-
-I was on the cloud nine when reading the email from the [FRTA](https://science.anu.edu.au/study/scholarships/future-research-talent-awards-indonesia) committee at ANU. 
-This award allowed me to conduct a 3-months research at the Research School of Physics.
-Because of the pandemic, [Patrick](https://physics.anu.edu.au/contact/people/profile.php?ID=94), Christian and I decided to carry our work online.
-It was an uplifting and lovely experience to work with them!
 
 # 2019
 
